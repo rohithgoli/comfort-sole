@@ -1,6 +1,9 @@
 import bigShoe1 from './big-shoe1.png'
 import bigShoe2 from './big-shoe2.png'
 import bigShoe3 from './big-shoe3.png'
+import mojari1 from './mojari1.png'
+import kolhapuriChappal1 from './kolhapuriChappal1.png'
+import juttis1 from './juttis1.png'
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
@@ -26,6 +29,9 @@ export {
     bigShoe1,
     bigShoe2,
     bigShoe3,
+    mojari1,
+    kolhapuriChappal1,
+    juttis1,
 
     customer1,
     customer2,
