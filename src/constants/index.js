@@ -1,5 +1,5 @@
 import {facebook, instagram, shieldTick, support, truckFast, twitter} from "../assets/icons";
-import {bigShoe1, bigShoe2, bigShoe3, mojari1, kolhapuriChappal1, juttis1, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3} from "../assets/images";
+import {bigShoe1, bigShoe2, bigShoe3, mojari1, kolhapuriChappal1, juttis1, customer1, customer2, shoe4, shoe5, shoe6, shoe7, footwear4, footwear5, footwear6, footwear7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3} from "../assets/images";
 
 export const navLinks = [
     {href:"#home", label: "Home"},
@@ -65,6 +65,29 @@ export const products = [
         name: "Nike Air Jordan-001",
         price: "$230.20",
     },
+];
+
+export const ethnicProducts = [
+    {
+        imgURL: footwear4,
+        name: "Kolhapuri Leather Slipper",
+        price: "$180"
+    },
+    {
+        imgURL: footwear5,
+        name: "Handmade Mojaris - Bridal Footwear",
+        price: "$240"
+    },
+    {
+        imgURL: footwear6,
+        name: "Kolhapuri Leather Slipper",
+        price: "$180"
+    },
+    {
+        imgURL: footwear7,
+        name: "Embroidered Jutti",
+        price: "$300"
+    }
 ];
 
 export const services = [
