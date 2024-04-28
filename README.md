@@ -1,6 +1,7 @@
 ## About
 
-This repository contains the code corresponding to Comfort Sole, A responsive website project showcasing Collection of Ethnic Indian Footwear
+This repository contains the code corresponding to [Comfort Sole](https://comfort-sole.vercel.app/), A responsive website project showcasing Collection of Ethnic Indian Footwear
+
 
 ## <a name="table">Table of Contents</a>
 
