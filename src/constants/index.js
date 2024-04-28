@@ -75,7 +75,7 @@ export const ethnicProducts = [
     },
     {
         imgURL: footwear5,
-        name: "Handmade Mojaris - Bridal Footwear",
+        name: "Handmade Mojaris",
         price: "$240"
     },
     {
