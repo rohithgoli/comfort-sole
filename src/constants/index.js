@@ -80,7 +80,7 @@ export const ethnicProducts = [
     },
     {
         imgURL: footwear6,
-        name: "Kolhapuri Leather Slipper",
+        name: "Kolhapuri Chappal",
         price: "$180"
     },
     {
@@ -127,14 +127,25 @@ export const footerLinks = [
     {
         title: "Products",
         links: [
-            { name: "Air Force 1", link: "/"},
-            { name: "Air Max 1", link: "/"},
-            { name: "Air Jordan 1", link: "/"},
-            { name: "Air Force 2", link: "/"},
-            { name: "Nike Waffle Racer", link: "/"},
-            { name: "Nike Cortez", link: "/"},
-        ],
+            { name: "Kolhapuri Chappal", link: "/"},
+            { name: "Handmade Ethnic Jutti", link: "/"},
+            { name: "Jaipuri Juti", link: "/"},
+            { name: "Punjabi Jutti", link: "/"},
+            { name: "Handmade Mojaris", link: "/"},
+            { name: "Embroidered Jutti", link: "/"}
+        ]
     },
+    // {
+    //     title: "Products",
+    //     links: [
+    //         { name: "Air Force 1", link: "/"},
+    //         { name: "Air Max 1", link: "/"},
+    //         { name: "Air Jordan 1", link: "/"},
+    //         { name: "Air Force 2", link: "/"},
+    //         { name: "Nike Waffle Racer", link: "/"},
+    //         { name: "Nike Cortez", link: "/"},
+    //     ],
+    // },
     {
         title: "Help",
         links: [
@@ -148,10 +159,17 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            {name: "customer@nike.com", link: "mailto:customer@nike.com"},
-            {name: "+92554862354", link: "tel:+92554862354"},
+            {name: "customer@comfort-sole.com", link: "mailto:customer@comfort-sole.com"},
+            {name: "+919550272443", link: "tel:+919550272443"},
         ]
     }
+    // {
+    //     title: "Get in touch",
+    //     links: [
+    //         {name: "customer@nike.com", link: "mailto:customer@nike.com"},
+    //         {name: "+92554862354", link: "tel:+92554862354"},
+    //     ]
+    // }
 ]
 
 export const socialMedia = [
@@ -159,3 +177,8 @@ export const socialMedia = [
     { src: twitter, alt: "twitter logo"},
     { src: instagram, alt: "instagram logo"},
 ];
+
+export const devProfile = { 
+    name: "Rohith Goli",
+    profileLink: "https://www.linkedin.com/in/rohith-goli-694b51170/"
+};
