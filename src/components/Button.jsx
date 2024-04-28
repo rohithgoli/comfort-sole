@@ -1,6 +1,6 @@
 const Button = (props) => {
 
-  const {label, iconURL, backgroundColor, textColor, borderColor} = props;
+  const {label, iconURL, backgroundColor, textColor, borderColor, fullWidth} = props;
 
   return (
     <button className={`flex justify-center items-center gap-2
@@ -9,7 +9,7 @@ const Button = (props) => {
       backgroundColor
         ? `${backgroundColor} ${textColor} ${borderColor}`
         : "bg-coral-red text-white border-coral-red"
-    } rounded-full w-full"`}>
+    } rounded-full ${fullWidth && "w-full"}`}>
         {label}
         {iconURL && <img 
             src={iconURL}
